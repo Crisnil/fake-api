@@ -1,7 +1,7 @@
 {
   "user":{
-    "username":"crisnil",
-    "password":"pass123"
+    "username": "crisnil",
+    "password": "pass123"
   },
   "posts": [
     { "id": 1, "title": "Post 1" },
@@ -14,8 +14,7 @@
   ],
   "profile": {
     "name": "Crisnil Acuyado",
-    "avatar":"https://avatars.githubusercontent.com/u/7546089?v=4",
-    "address":"Tagbilaran City",
-    
+    "avatar": "https://avatars.githubusercontent.com/u/7546089?v=4",
+    "address": "Tagbilaran City",
   }
 }
