@@ -9,6 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "user": "crisnil",
+    "password": "p@ssw0rd",
+    "avatar": "https://avatars.githubusercontent.com/u/7546089?v=4"
   }
 }
