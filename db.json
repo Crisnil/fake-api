@@ -9,12 +9,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
+    "username": "crisnil",
+    "password": "pass123",
     "name": "Crisnil Acuyado",
     "avatar": "https://avatars.githubusercontent.com/u/7546089?v=4",
     "address": "Tagbilaran City",
-  },
-   "user":{
-    "username": "crisnil",
-    "password": "pass123"
   }
 }
