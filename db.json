@@ -1,4 +1,8 @@
 {
+  "user":{
+    "username":"crisnil",
+    "password":"pass123"
+  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -9,6 +13,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Crisnil Acuyado",
+    "avatar":"https://avatars.githubusercontent.com/u/7546089?v=4",
+    "address":"Tagbilaran City",
+    
   }
 }
